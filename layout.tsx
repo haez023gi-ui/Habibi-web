@@ -1,0 +1,1 @@
+import './globals.css';export const metadata={title:'Habibi — Fal & Yorum',description:'Kahve falı, tarot, chat ve sesli fal.'};export default function Layout({children}:{children:React.ReactNode}){return <>{children}</>}
