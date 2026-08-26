@@ -11,11 +11,5 @@
     "react": "latest",
     "react-dom": "latest",
     "@supabase/supabase-js": "^2.57.0"
-  },
-  "devDependencies": {
-    "typescript": "latest",
-    "@types/node": "latest",
-    "@types/react": "latest",
-    "@types/react-dom": "latest"
   }
 }
